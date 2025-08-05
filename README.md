@@ -1,8 +1,6 @@
 ## Hello World, Eu sou a Nan! 👋
 
-- 🔭 Hoje eu trabalho como auxiliar e técnica de iluminação
 - 🌱 Estou cursando o ultimo ano do Ensino Médio
-- 📫 Contate me : jtae16155@gmail.com
 - 😄 Pronomes: Ela/Dela/She/her
 
 <!--Stats-->
