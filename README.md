@@ -1,7 +1,15 @@
-## Hello World, Eu sou a Nan! 👋
+# 👋 Olá, eu sou a Nana!
 
-- 🌱 Estou cursando o ultimo ano do Ensino Médio
-- 😄 Pronomes: Ela/Dela/She/her
+- 🧑‍💻 Nome: Nana  
+- 🎂 Idade: 17 anos  
+- 🌎 Localização: Brasil  
+- 🎮 Interesses: Jogos, Programação, Animação em 2D  
+- 🚀 Atualmente aprendendo: Programação com Python 
+- 📫 Contato: [usuariodedougl45@email.com]
+
+---
+⭐️ "Sempre aprendendo algo novo!"
+
 
 <!--Stats-->
 <div style="display: inline">
