@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou a Nana!
 
 - 🧑‍💻 Nome: Nana  
-- 🎂 Idade: 17 anos  
+- 🎂 Idade: 18 anos  
 - 🌎 Localização: Brasil  
 - 🎮 Interesses: Jogos, Programação, Animação em 2D  
 - 🚀 Atualmente aprendendo: Programação com Python 
