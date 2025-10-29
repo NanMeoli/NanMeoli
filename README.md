@@ -5,7 +5,7 @@
 - 🌎 Localização: Brasil  
 - 🎮 Interesses: Jogos, Programação, Animação em 2D  
 - 🚀 Atualmente aprendendo: Programação com Python 
-- 📫 Contato: [usuariodedougl45@email.com]
+- 📫 Contato: [jtae16155@gmail.com]
 
 ---
 ⭐️ "Sempre aprendendo algo novo!"
